@@ -14,7 +14,7 @@ I enjoy exploring data, solving real-world problems, and turning insights into a
 Here are some of my GitHub projects that showcase my skills:  
 - **[Netflix Churn Analysis](https://github.com/JoyC14/netflix-churn-analysis)** – Exploring customer churn and identifying key factors.  
 - **[python-exercises](https://github.com/JoyC14/python-exercises)** – Small Python scripts for automation, data cleaning, and problem-solving.  
-- **Kaggle Competitions** – Various datasets and predictive modeling challenges.  
+- **[Epsilon-Greedy Bandit Simulation](https://github.com/JoyC14/epsilon-greedy-bandit-simulation)** – Simulation study of exploration–exploitation trade-offs in reinforcement learning. 
 
 ## 🌍 Fun Facts
 - I'm a fan of **Henry Moodie** and enjoy discovering new music from UK artists. 🎵  
