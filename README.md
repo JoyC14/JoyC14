@@ -13,6 +13,7 @@ I enjoy exploring data, solving real-world problems, and turning insights into a
 ## 📂 Projects
 Here are some of my GitHub projects that showcase my skills:  
 - **[medical-diagnosis-ML-project](https://github.com/JoyC14/medical-diagnosis-ML-project)** – A machine learning pipeline to classify Chronic Illness and Depression using clinical features, featuring EDA, hyperparameter tuning, and feature importance analysis.
+- **[text-clustering-lsa](https://github.com/JoyC14/text-clustering-lsa)** – An unsupervised learning project that clusters text data using TF-IDF, TruncatedSVD (LSA), and K-Means. Includes silhouette analysis to determine the optimal number of clusters.
 - **[IBM-AI-racing](https://github.com/JoyC14/IBM-AI-racing)** – Developing a Python-based autonomous racing bot for the TORCS simulator, focusing on real-time decision-making and optimal racing line logic.
 - **[epsilon-greedy-bandit-simulation](https://github.com/JoyC14/epsilon-greedy-bandit-simulation)** – Simulation study of exploration–exploitation trade-offs in reinforcement learning.
 - **[netflix-churn-analysis](https://github.com/JoyC14/netflix-churn-analysis)** – Exploring customer churn and identifying key factors.  
