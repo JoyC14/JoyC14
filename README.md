@@ -6,8 +6,8 @@ I enjoy exploring data, solving real-world problems, and turning insights into a
 
 ## 💻 My Skills
 - **Languages:** Python, SQL  
-- **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn  
-- **Machine Learning:** Regression, Classification, Predictive Modeling  
+- **Data Analysis & Visualisation:** Pandas, NumPy, Matplotlib, Seaborn  
+- **Machine Learning:** Regression, Classification, Predictive Modelling  
 - **Other Tools:** Jupyter Notebook, Git, GitHub  
 
 ## 📂 Projects
