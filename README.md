@@ -12,13 +12,14 @@ I enjoy exploring data, solving real-world problems, and turning insights into a
 
 ## 📂 Projects
 Here are some of my GitHub projects that showcase my skills:  
-- **[Netflix Churn Analysis](https://github.com/JoyC14/netflix-churn-analysis)** – Exploring customer churn and identifying key factors.  
+- **[netflix-churn-analysis](https://github.com/JoyC14/netflix-churn-analysis)** – Exploring customer churn and identifying key factors.  
 - **[python-exercises](https://github.com/JoyC14/python-exercises)** – Small Python scripts for automation, data cleaning, and problem-solving.  
-- **[Epsilon-Greedy Bandit Simulation](https://github.com/JoyC14/epsilon-greedy-bandit-simulation)** – Simulation study of exploration–exploitation trade-offs in reinforcement learning. 
+- **[epsilon-greedy-bandit-simulation](https://github.com/JoyC14/epsilon-greedy-bandit-simulation)** – Simulation study of exploration–exploitation trade-offs in reinforcement learning.
+- **[medical-diagnosis-ML-project](https://github.com/JoyC14/medical-diagnosis-ML-project)** – A machine learning pipeline to classify Chronic Illness and Depression using clinical features, featuring EDA, hyperparameter tuning, and feature importance analysis.
 
 ## 🌍 Fun Facts
 - I'm a fan of **Henry Moodie** and enjoy discovering new music from UK artists. 🎵  
-- I love traveling in Europe and exploring local foods. ✈️🍴  
+- I love travelling in Europe and exploring local foods. ✈️🍴  
 
 ## 📫 Get in Touch
 - Email: chiehyujoy@gmail.com
