@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Chieh Yu Chang
+# Hi there 👋, I'm Joy
 
 ## 🎓 About Me
 I'm a Master's student in Data Science based in Liverpool, UK.  
